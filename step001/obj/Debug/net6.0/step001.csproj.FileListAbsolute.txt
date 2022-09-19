@@ -1,0 +1,15 @@
+C:\Users\Aivi\Desktop\ClassWork\step001\bin\Debug\net6.0\step001.exe
+C:\Users\Aivi\Desktop\ClassWork\step001\bin\Debug\net6.0\step001.deps.json
+C:\Users\Aivi\Desktop\ClassWork\step001\bin\Debug\net6.0\step001.runtimeconfig.json
+C:\Users\Aivi\Desktop\ClassWork\step001\bin\Debug\net6.0\step001.dll
+C:\Users\Aivi\Desktop\ClassWork\step001\bin\Debug\net6.0\step001.pdb
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.csproj.AssemblyReference.cache
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.AssemblyInfoInputs.cache
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.AssemblyInfo.cs
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.csproj.CoreCompileInputs.cache
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.dll
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\refint\step001.dll
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.pdb
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\step001.genruntimeconfig.cache
+C:\Users\Aivi\Desktop\ClassWork\step001\obj\Debug\net6.0\ref\step001.dll
